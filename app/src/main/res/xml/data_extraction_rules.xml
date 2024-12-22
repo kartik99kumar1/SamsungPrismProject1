@@ -4,7 +4,6 @@
         <!-- Include everything -->
         <include domain="file" path="*"/>
         <include domain="database" path="*"/>
-        <include domain="shared_prefs" path="*"/>
-        <include domain="cache" path="*"/>
+        <include domain="sharedpref" path="*"/>
     </cloud-backup>
 </data-extraction-rules>
